@@ -53,6 +53,7 @@ a{
 a:hover{
   color: #723881;
 }
+
 .intro{
   width: 30%;
   margin: auto;
@@ -63,6 +64,10 @@ a:hover{
   margin: 100px auto 70px auto;
   text-align: left;
   line-height: 2;
+}
+.pre-contact{
+  width: 20%;
+  margin: 100px auto 50px auto;
 }
 
 .contact-me{
